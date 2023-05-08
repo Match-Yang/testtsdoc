@@ -1,0 +1,24 @@
+
+
+
+# ZegoScreenCaptureSourceExceptionType constructor
+
+
+
+
+
+
+const
+ZegoScreenCaptureSourceExceptionType()
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+
+
+
+# ZIMErrorCode constructor
+
+
+
+
+
+
+
+ZIMErrorCode()
+
+
+
+
+
+
+
+
+
+
+
+

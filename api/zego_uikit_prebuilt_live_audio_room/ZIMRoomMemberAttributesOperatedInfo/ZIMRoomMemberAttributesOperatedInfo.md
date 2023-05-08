@@ -1,0 +1,24 @@
+
+
+
+# ZIMRoomMemberAttributesOperatedInfo constructor
+
+
+
+
+
+
+
+ZIMRoomMemberAttributesOperatedInfo()
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+
+
+
+# ZegoResourceType constructor
+
+
+
+
+
+
+const
+ZegoResourceType()
+
+
+
+
+
+
+
+
+
+
+
+

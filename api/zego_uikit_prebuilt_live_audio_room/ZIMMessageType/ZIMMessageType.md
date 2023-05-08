@@ -1,0 +1,24 @@
+
+
+
+# ZIMMessageType constructor
+
+
+
+
+
+
+const
+ZIMMessageType()
+
+
+
+
+
+
+
+
+
+
+
+

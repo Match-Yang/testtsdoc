@@ -1,0 +1,24 @@
+
+
+
+# ZegoCapturePipelineScaleMode constructor
+
+
+
+
+
+
+const
+ZegoCapturePipelineScaleMode()
+
+
+
+
+
+
+
+
+
+
+
+

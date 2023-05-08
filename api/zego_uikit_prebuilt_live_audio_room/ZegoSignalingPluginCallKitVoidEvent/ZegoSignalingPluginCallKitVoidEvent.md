@@ -1,0 +1,24 @@
+
+
+
+# ZegoSignalingPluginCallKitVoidEvent constructor
+
+
+
+
+
+
+
+ZegoSignalingPluginCallKitVoidEvent()
+
+
+
+
+
+
+
+
+
+
+
+

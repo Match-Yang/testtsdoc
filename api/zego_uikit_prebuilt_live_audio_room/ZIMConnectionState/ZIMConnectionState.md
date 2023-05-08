@@ -1,0 +1,24 @@
+
+
+
+# ZIMConnectionState constructor
+
+
+
+
+
+
+const
+ZIMConnectionState()
+
+
+
+
+
+
+
+
+
+
+
+

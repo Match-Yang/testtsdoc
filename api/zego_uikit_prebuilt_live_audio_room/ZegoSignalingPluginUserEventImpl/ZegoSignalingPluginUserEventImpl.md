@@ -1,0 +1,24 @@
+
+
+
+# ZegoSignalingPluginUserEventImpl constructor
+
+
+
+
+
+
+
+ZegoSignalingPluginUserEventImpl()
+
+
+
+
+
+
+
+
+
+
+
+

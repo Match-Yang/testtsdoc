@@ -1,0 +1,24 @@
+
+
+
+# ZegoUIKitPluginType constructor
+
+
+
+
+
+
+const
+ZegoUIKitPluginType()
+
+
+
+
+
+
+
+
+
+
+
+

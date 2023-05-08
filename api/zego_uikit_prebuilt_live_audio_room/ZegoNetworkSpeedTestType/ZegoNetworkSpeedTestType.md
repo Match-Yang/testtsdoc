@@ -1,0 +1,24 @@
+
+
+
+# ZegoNetworkSpeedTestType constructor
+
+
+
+
+
+
+const
+ZegoNetworkSpeedTestType()
+
+
+
+
+
+
+
+
+
+
+
+

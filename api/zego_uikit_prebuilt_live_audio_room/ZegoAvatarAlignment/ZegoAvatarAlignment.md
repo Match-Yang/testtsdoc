@@ -1,0 +1,24 @@
+
+
+
+# ZegoAvatarAlignment constructor
+
+
+
+
+
+
+const
+ZegoAvatarAlignment()
+
+
+
+
+
+
+
+
+
+
+
+

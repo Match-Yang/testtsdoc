@@ -1,0 +1,24 @@
+
+
+
+# ZegoSignalingPluginInvitationEventImpl constructor
+
+
+
+
+
+
+
+ZegoSignalingPluginInvitationEventImpl()
+
+
+
+
+
+
+
+
+
+
+
+

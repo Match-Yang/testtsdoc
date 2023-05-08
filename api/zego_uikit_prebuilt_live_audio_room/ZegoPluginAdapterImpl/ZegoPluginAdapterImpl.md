@@ -1,0 +1,24 @@
+
+
+
+# ZegoPluginAdapterImpl constructor
+
+
+
+
+
+
+
+ZegoPluginAdapterImpl()
+
+
+
+
+
+
+
+
+
+
+
+

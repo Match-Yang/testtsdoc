@@ -1,0 +1,24 @@
+
+
+
+# ZIMRoomMemberAttributesQueryConfig constructor
+
+
+
+
+
+
+
+ZIMRoomMemberAttributesQueryConfig()
+
+
+
+
+
+
+
+
+
+
+
+

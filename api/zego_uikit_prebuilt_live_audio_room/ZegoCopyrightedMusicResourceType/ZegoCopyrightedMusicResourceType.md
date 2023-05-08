@@ -1,0 +1,24 @@
+
+
+
+# ZegoCopyrightedMusicResourceType constructor
+
+
+
+
+
+
+const
+ZegoCopyrightedMusicResourceType()
+
+
+
+
+
+
+
+
+
+
+
+

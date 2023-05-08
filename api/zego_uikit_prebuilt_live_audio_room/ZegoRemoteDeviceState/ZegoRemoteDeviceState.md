@@ -1,0 +1,24 @@
+
+
+
+# ZegoRemoteDeviceState constructor
+
+
+
+
+
+
+const
+ZegoRemoteDeviceState()
+
+
+
+
+
+
+
+
+
+
+
+

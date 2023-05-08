@@ -1,0 +1,24 @@
+
+
+
+# ZegoDeviceExceptionType constructor
+
+
+
+
+
+
+const
+ZegoDeviceExceptionType()
+
+
+
+
+
+
+
+
+
+
+
+

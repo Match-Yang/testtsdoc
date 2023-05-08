@@ -1,0 +1,24 @@
+
+
+
+# ZegoInRoomMessageState constructor
+
+
+
+
+
+
+const
+ZegoInRoomMessageState()
+
+
+
+
+
+
+
+
+
+
+
+

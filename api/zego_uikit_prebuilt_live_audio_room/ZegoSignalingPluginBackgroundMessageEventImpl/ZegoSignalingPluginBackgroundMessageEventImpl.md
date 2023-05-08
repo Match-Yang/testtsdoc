@@ -1,0 +1,24 @@
+
+
+
+# ZegoSignalingPluginBackgroundMessageEventImpl constructor
+
+
+
+
+
+
+
+ZegoSignalingPluginBackgroundMessageEventImpl()
+
+
+
+
+
+
+
+
+
+
+
+

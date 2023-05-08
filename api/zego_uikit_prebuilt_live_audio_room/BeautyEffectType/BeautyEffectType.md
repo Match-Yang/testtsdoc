@@ -1,0 +1,24 @@
+
+
+
+# BeautyEffectType constructor
+
+
+
+
+
+
+const
+BeautyEffectType()
+
+
+
+
+
+
+
+
+
+
+
+

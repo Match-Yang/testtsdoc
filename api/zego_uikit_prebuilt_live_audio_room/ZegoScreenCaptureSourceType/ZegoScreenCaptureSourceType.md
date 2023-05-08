@@ -1,0 +1,24 @@
+
+
+
+# ZegoScreenCaptureSourceType constructor
+
+
+
+
+
+
+const
+ZegoScreenCaptureSourceType()
+
+
+
+
+
+
+
+
+
+
+
+

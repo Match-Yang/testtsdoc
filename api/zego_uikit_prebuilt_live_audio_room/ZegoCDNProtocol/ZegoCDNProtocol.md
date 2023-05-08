@@ -1,0 +1,24 @@
+
+
+
+# ZegoCDNProtocol constructor
+
+
+
+
+
+
+const
+ZegoCDNProtocol()
+
+
+
+
+
+
+
+
+
+
+
+
